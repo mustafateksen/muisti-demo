@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/ask.py": { "includeFiles": "data/server.json", "maxDuration": 30 },
+    "api/health.py": { "maxDuration": 5 }
+  }
+}
